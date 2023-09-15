@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://ganeshkumarmodela.github.io/csb-93nf33/static/js/main.ee76712b.chunk.js",
+    "main.js.map": "https://ganeshkumarmodela.github.io/csb-93nf33/static/js/main.ee76712b.chunk.js.map",
+    "runtime-main.js": "https://ganeshkumarmodela.github.io/csb-93nf33/static/js/runtime-main.b99ca821.js",
+    "runtime-main.js.map": "https://ganeshkumarmodela.github.io/csb-93nf33/static/js/runtime-main.b99ca821.js.map",
+    "static/js/2.566b72c8.chunk.js": "https://ganeshkumarmodela.github.io/csb-93nf33/static/js/2.566b72c8.chunk.js",
+    "static/js/2.566b72c8.chunk.js.map": "https://ganeshkumarmodela.github.io/csb-93nf33/static/js/2.566b72c8.chunk.js.map",
+    "index.html": "https://ganeshkumarmodela.github.io/csb-93nf33/index.html",
+    "precache-manifest.3506a8611900118fd07b00a3cc1b89aa.js": "https://ganeshkumarmodela.github.io/csb-93nf33/precache-manifest.3506a8611900118fd07b00a3cc1b89aa.js",
+    "service-worker.js": "https://ganeshkumarmodela.github.io/csb-93nf33/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b99ca821.js",
+    "static/js/2.566b72c8.chunk.js",
+    "static/js/main.ee76712b.chunk.js"
+  ]
+}
